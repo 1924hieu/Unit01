@@ -1,0 +1,5 @@
+commit 0b28f9a561a3d78fb9e5a5eb663b89d4ebc92d73
+Author: Cory <chl2099@rit.edu>
+Date:   Sun Aug 28 23:00:33 2022 -0500
+
+    Reflection for 8/26/22 SoftDev class
